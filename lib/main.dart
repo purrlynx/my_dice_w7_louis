@@ -8,7 +8,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.grey,
         appBar: AppBar(
-          title: const Text('The Two Randomizer'),
+          title: const Text('The Randomizer'),
           backgroundColor: Colors.black,
         ),
         body: const DicePage(),
